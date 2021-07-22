@@ -15,16 +15,6 @@ body {
     align-items: center;
 }
 
-#nav, #navLeft {
-    display: flex;
-    margin: 0;
-}
-
-#navRight {
-    align-items: flex-end;
-}
-
-
 .roundedCorners    {
     border-radius: 5px;
 }
